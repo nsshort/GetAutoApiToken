@@ -48,7 +48,7 @@
   
 * 保存刷新，打开你的项目主页网址，看看内容有没有更新。如果显示"已更新" ，点击get refresh_token
 
-  会跳转到微软登陆页面，登陆完会跳出来一大段abcdefg啥的，在里面找refresh_token ( 只需要refresh_token后面单引号里带的一大串字符，开头OAO啥的 )。
+  会跳转到微软登陆页面，登陆完会跳出来一大段abcdefg啥的，在里面找refresh_token ( 只需要refresh_token后面单引号里带的一大串字符，开头OAQ啥的 )。
   
 * 至此，refresh_token获取完毕
 
