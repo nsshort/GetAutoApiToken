@@ -58,4 +58,4 @@
 * 真的很烦，超级多步骤
 
 ### Thanks ###
-ukuq/onepoint: https://github.com/ukuq/onepoint
+* ukuq/onepoint: https://github.com/ukuq/onepoint
