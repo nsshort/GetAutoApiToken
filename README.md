@@ -15,7 +15,7 @@
   
   接下来的按原教程操作，获取id、机密、赋予权限，直到需要用rclone。
   
-* 接下来，修改你的GetAutoApiToken项目里的html文件
+* 接下来，修改你的GetAutoApiToken项目里的index.html文件
   修改内容如下：
   
   * 修改地方1：（第5行）
@@ -36,3 +36,12 @@
   改为
   
   >-redirect_uri':'你的项目主页'
+  
+* 保存刷新，打开你的项目主页网址，看看内容有没有更新。如果显示"已更新" ，点击get refresh_token
+
+  会跳转到微软登陆页面，登陆完会跳出来一大段abcdefg啥的，在里面找refresh_token。
+  
+* 至此，refresh_token获取完毕
+
+### 最后 ###
+* 真的很烦，超级多步骤
