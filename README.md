@@ -1,7 +1,7 @@
 # GetAutoApiToken
 ### 工具说明 ###
 * 配合AutoApi/原教程使用的获取refresh_token工具，建议按原教程使用rclone获取，因为此工具使用起来实在有点麻烦！
-  仅是为了rclone报错或者无PC端的朋友而适配的工具。
+* 仅是为了rclone报错或者无PC端的朋友而适配的工具。
   
 ### 步骤 ###
 * fork本仓库
