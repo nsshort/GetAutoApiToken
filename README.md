@@ -56,6 +56,7 @@
 
 ### 最后 ###
 * 真的很烦，超级多步骤
+* 还有，id、机密、token是一一对应的，不要这个token用那个id酱紫。
 
 ### Thanks ###
 * ukuq/onepoint: https://github.com/ukuq/onepoint
