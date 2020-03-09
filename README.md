@@ -5,12 +5,18 @@
   
 ### 步骤 ###
 * fork本仓库
+
 ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/GetAutoApiToken/fork.png)
+
 * 点击仓库Settings，往下拉找到 GitHub Pages，Source 栏选择 master branch，然后上面会出现一个网址（俗称项目主页），
+
 ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/GetAutoApiToken/Settings.png)
 ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/GetAutoApiToken/Gpage.png)
+
   点击网址看看能不能进去网页（显示未更新啥的）如图，进不去再等等，反应有点慢。然后复制项目主页网址
+  
 ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/GetAutoApiToken/未更新.png)
+
 * 按原教程注册应用，重定向url选web，到这里的时候！！！内容填入 你的项目主页网址 ，不要填  http://localhost:53682/
  （跟原教程区别！！！！），最后点注册即可。
   
